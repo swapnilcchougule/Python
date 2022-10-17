@@ -2,11 +2,11 @@
 
 # __init__ is a special method called constructor. It gets called at the time of
 # creating new objects. We use it to initialize our objects.
-# self is refrence to current object
+# self is refrence to current object i.e self.attribute = argument
    
 class Car: 
 	def __init__(self,brand,model,year,owner):          # Paramaterized constructor:	
-		self.brand = brand                    # Attribute1
+		self.brand = brand                    # Attribute1  
 		self.model = model                    # Attribute2
 		self.year = year                      # Attribute3
 		self.owner = owner                    # Attribute4
