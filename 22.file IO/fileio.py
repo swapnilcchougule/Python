@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 
 # https://www.tutorialspoint.com/python3/python_files_io.htm
+# https://www.tutorialspoint.com/python3/os_file_methods.htm
+# https://www.tutorialspoint.com/python3/file_methods.htm
+
 
 # Opens a file for writing only. Overwrites the file if the file exists.
 # If the file does not exist, creates a new file for writing.
